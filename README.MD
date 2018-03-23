@@ -3,23 +3,23 @@
 ## Contents
 
 > ### DataStructure
-* List
-  * SingleLinkedList
-  * DoubleLinkedList
-  * CircularLinkedList
-* Stack
-  * ArrayStack
-  * LinkedListStack
-* Queue
-  * CircularQueue
-  * LinkedQueue
-* Tree
+>* List
+>  * SingleLinkedList
+>  * DoubleLinkedList
+>  * CircularLinkedList
+>* Stack
+>  * ArrayStack
+>  * LinkedListStack
+>* Queue
+>  * CircularQueue
+>  * LinkedQueue
+>* Tree
 
 > ### Algorithm
-* Sort
-  * BubbleSort
-  * InsertionSort
-  * QuickSort
-* Search
-* HashTable
-* Graph
+>* Sort
+>  * BubbleSort
+>  * InsertionSort
+>  * QuickSort
+>* Search
+>* HashTable
+>* Graph
