@@ -14,7 +14,7 @@
 > * CircularQueue
 > * LinkedQueue
 > #### Tree
-<br/>
+
 ### Algorithm
 > #### Sort
 > * BubbleSort
